@@ -1,0 +1,6 @@
+# don't track
+/.ipynb_checkpoints
+/.ipynb_checkpoints/*
+embeddings*
+googlebooks-eng*
+
